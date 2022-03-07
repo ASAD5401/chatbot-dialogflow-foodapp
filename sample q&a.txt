@@ -1,0 +1,20 @@
+user : show me the menu
+bot: in menu we have pizzas , salad & pasta(image)
+user : show me pizza 
+bot : in pizza we have 8 different flavours(image)
+afghani tikka 
+chicken fajita
+chicken supreme
+behari chicken
+spicy ranch
+super silican
+bbq buzz
+seekh kebab overload
+user: show me the size
+bot : we have three categories in every flavour(image)
+user:place order of {2} {small} {chicken fajita} pizza
+bot : would you like to add any thing else?
+user : no
+bot : you order -----would you like to checkout
+user : yes 
+
